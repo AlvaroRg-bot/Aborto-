@@ -13,10 +13,10 @@ Al analizar y entender los datos masivos sobre el aborto, podremos obtener una v
 Consideraremos diferentes aspectos sociales, culturales y económicos.
 
 ## **DETERMINA LOS ELEMENTOS DE DATOS NECESARIOS PARA SU ANÁLISISY PODER DAR RESPUESTA A LA PREGUNTA:**
-- TASA DE ABORTO: Para conocer la frecuencia y la evolución de los casos en distintos periodos y regiones.
-- ACCESO A SERVICIOS DE SALUD REPRODUCTIVA: Para evaluar cómo la disponibilidad y calidad de estos servicios pueden influir en la decisión de abortar.
-- FACTORES SOCIOECONÓMICOS: Para entender cómo la educación, el ingreso y otras condiciones económicas afectan la implementación del aborto.
-- CREENCIAS CULTURALES Y RELIGIOSAS: Para analizar el impacto de las normas sociales, valores y creeencias en la aceptación o rechazo del aborto en la población.
+- **TASA DE ABORTO:** Para conocer la frecuencia y la evolución de los casos en distintos periodos y regiones.
+- **ACCESO A SERVICIOS DE SALUD REPRODUCTIVA:** Para evaluar cómo la disponibilidad y calidad de estos servicios pueden influir en la decisión de abortar.
+- **FACTORES SOCIOECONÓMICOS:** Para entender cómo la educación, el ingreso y otras condiciones económicas afectan la implementación del aborto.
+- **CREENCIAS CULTURALES Y RELIGIOSAS:** Para analizar el impacto de las normas sociales, valores y creeencias en la aceptación o rechazo del aborto en la población.
 
 ## **FUENTES DE INFORMACIÓN:**
 * Organización Mundial de la Salud (https://www.who.int)
