@@ -17,14 +17,8 @@ Consideraremos diferentes aspectos sociales, culturales y económicos.
 - **TASA DE ABORTO:** Para conocer la frecuencia y la evolución de los casos en distintos periodos y regiones.
 - **ACCESO A SERVICIOS DE SALUD REPRODUCTIVA:** Para evaluar cómo la disponibilidad y calidad de estos servicios pueden influir en la decisión de abortar.
 - **FACTORES SOCIOECONÓMICOS:** Para entender cómo la educación, el ingreso y otras condiciones económicas afectan la implementación del aborto.
-- **CREENCIAS CULTURALES Y RELIGIOSAS:** Para analizar el impacto de las normas sociales, valores y creeencias en la aceptación o rechazo del aborto en la población.
+- **CREENCIAS CULTURALES Y RELIGIOSAS:** Para analizar el impacto de las normas sociales, valores y creeencias en la aceptación o rechazo del aborto en la población.![aborto](https://github.com/user-attachments/assets/e800b1b4-cc0a-4500-a90f-9223a858e99a)
 
-  import kagglehub
-
-# Download latest version
-path = kagglehub.dataset_download("mcantoni81/italian-tweets-discussion-on-the-roevswade")
-
-print("Path to dataset files:", path)
 
 ## **FUENTES DE INFORMACIÓN:**
 * Organización Mundial de la Salud (https://www.who.int)
