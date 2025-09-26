@@ -1,8 +1,8 @@
-# **ABORTO**
-<p align="center">
-  <img
-    src=http://3.bp.blogspot.com/-O5x2C2YTzvo/VkCdzsV-y4I/AAAAAAAAGSs/XOLmr22ap1g/s1600-r/feto.gif width="300"/>
-</p> 
+<div style="display: flex; align-items:center; gap: 20px;">
+   <h2>ABORTO</h2>
+   <img
+src=http://3.bp.blogspot.com/-O5x2C2YTzvo/VkCdzsV-y4I/AAAAAAAAGSs/XOLmr22ap1g/s1600-r/feto.gif width="300"/>
+</div>
 
 ## **DEFINIR EL PROYECTO:**
 Al analizar y entender los datos masivos sobre el aborto, podremos obtener una visión más  clara y fundamentada del fenómeno, lo que nos permitirá dar una respuesta precisa y basada en evidencia a nuestra pregunta de investigación. Con este análisis nos ayudara a identificar patrones, tendencias y posibles causas relacionadas con la práctica del aborto en diferentes contextos.
